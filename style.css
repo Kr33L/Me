@@ -1,5 +1,5 @@
-img {
-  display: block;
-  width: 25%;
-  margin: auto;
+.page--container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
 }
